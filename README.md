@@ -11,3 +11,11 @@ This repository also reflects concepts and techniques learned in my "Transformin
 * Full-Text Search Indexing: Generated full-text search indexes to enhance data retrieval and search functionality.
 * Data Modification Across Tables: Modified data within related tables, leveraging relationships to ensure data integrity.
 * NoSQL Proficiency: Practiced NoSQL commands in MongoDB, identifying similarities and differences with SQL syntax and logic.
+
+# Projects
+# Salon Business Database Project
+* The first project in this repository is a database for a salon business, created in DBeaver. This project includes:
+
+  * Database Design: Structured tables to represent the business data, including clients, appointments, services, and employee details.
+  * SQL Commands: Scripts with various SQL commands, such as SELECT, INSERT, UPDATE, and DELETE, to manage and retrieve data.
+  * Business Insights: Queries designed to analyze customer trends, track appointment details, and manage service offerings.
