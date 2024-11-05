@@ -19,3 +19,12 @@ This repository also reflects concepts and techniques learned in my "Transformin
   * Database Design: Structured tables to represent the business data, including clients, appointments, services, and employee details.
   * SQL Commands: Scripts with various SQL commands, such as SELECT, INSERT, UPDATE, and DELETE, to manage and retrieve data.
   * Business Insights: Queries designed to analyze customer trends, track appointment details, and manage service offerings.
+ 
+
+# Boxstore Database Project
+In this project, I designed and implemented a relational database for a hypothetical "Boxstore" using DBeaver and draw.io. Key aspects of this project include:
+
+  * Entity-Relationship Diagram (ERD): Created an ERD in draw.io to model entities, attributes, and relationships within the database. The main focus was on the people table and other tables that relate to it.
+  * Database Schema: Built and organized tables in the "Boxstore" database to match the ERD, ensuring normalization and optimal relational structure.
+  * SQL Scripting: Developed SQL scripts to create each table and establish relationships, including foreign keys and constraints, within DBeaver.
+This project demonstrates my understanding of database design principles, ER modeling, and SQL scripting for real-world database implementations.
